@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="4293" dy="2393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2376" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,9 +149,6 @@
         <mxCell id="gfVH6GyXzhJhxpXVjkYv-71" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;Fog Node&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1190" y="705" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gfVH6GyXzhJhxpXVjkYv-72" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.community;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="-210" width="95" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="gfVH6GyXzhJhxpXVjkYv-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gfVH6GyXzhJhxpXVjkYv-25" target="gfVH6GyXzhJhxpXVjkYv-48" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="350" as="sourcePoint" />
@@ -159,7 +156,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-3" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gfVH6GyXzhJhxpXVjkYv-77">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-3" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gfVH6GyXzhJhxpXVjkYv-77" vertex="1" connectable="0">
           <mxGeometry x="-0.2092" y="-1" relative="1" as="geometry">
             <mxPoint x="26" y="7" as="offset" />
           </mxGeometry>
@@ -360,61 +357,61 @@
         <mxCell id="gfVH6GyXzhJhxpXVjkYv-112" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;.&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-2" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 56px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 56px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-2" value="&lt;font style=&quot;font-size: 56px;&quot;&gt;.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 56px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 56px;&quot;&gt;.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="525" width="40" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-4" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-4" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="630.2637635350852" y="240.24991575629087" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-5" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-5" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1040.0037635350852" y="284.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-6" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-6" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="630.2637635350852" y="329.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-7" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-7" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1080.0037635350852" y="459.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-8" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-8" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1090.0037635350852" y="559.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-9" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-9" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="640.0037635350852" y="499.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-10" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-10" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="620.0037635350852" y="671.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-11" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-11" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1420.0037635350852" y="409.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-12" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-12" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1470.0037635350852" y="474.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-13" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-13" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1470.0037635350852" y="549.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-14" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-14" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1400.0037635350852" y="599.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-15" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-15" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1470.0037635350852" y="689.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-16" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-16" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1920.0037635350852" y="439.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-17" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-17" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1900.0037635350852" y="574.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-18" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-18" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1070.0037635350852" y="754.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-19" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-19" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1060.0037635350852" y="659.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-20" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-20" value="Bandwidth in Mbps" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="640.0037635350852" y="574.9999157562909" as="geometry" />
         </mxCell>
-        <mxCell id="_U8R7I9dlbcm_qzRQH-U-22" value="Text" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="_U8R7I9dlbcm_qzRQH-U-22" value="Text" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1360" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
